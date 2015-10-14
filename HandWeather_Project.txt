@@ -2,7 +2,7 @@
 2.Mike 完成了登录界面。 
 3.Mike 完成了注册界面。
 4.Mike 完成了忘记密码功能.(mike 修改了bug！)
-5.Mike 完成了忘记主页面功能. 
+5.Mike 完成了忘记主页面功能. (mike 修改了bug008！)
 6.mike 完成了数据库过能！
 7.Mike和jerry 完成了3。
 8.Mike 完成了功能4！
